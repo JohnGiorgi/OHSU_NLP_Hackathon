@@ -35,6 +35,7 @@ The Bio Rule Visualizer is here: http://agathon.sista.arizona.edu:8080/odinweb/b
 | Filename        | Description   |
 |:--------------- |:------------- |
 | BCC_PTTB_Sentences.txt | 1st line of each block was written by a researcher in preparation for a discussion with clinicians (starts with '@'). 2nd is citation (starts with '>'). 3rd is (possible) original source (starts with '$'). |
+| BCC_PTTB_Sentences.tsv | Same info as .txt but tsv (Researcher's interpretation\tcitation\toriginal sentence) |
 | CIViC_abstracts.zip | Contains >1000 abstracts scraped from CIViC. Each saved under its PubMed ID number. |
 | CIViC_summaries.txt | "Nightly summary" of evidence used by CIViC. |
 | g2p-SNAPSHOT-O5-17-2017.tsv | A collection of evidence used by the Genotype to Phenotype Knowledgebase tool developed by OHSU's Brian Walsh. The knowledgebase connects genomic markers to phenotypes (i.e. drug sensitivity) by querying reputable databases including OncoKB, CIViC, PMKB, JAX, and MolecularMatch. |
