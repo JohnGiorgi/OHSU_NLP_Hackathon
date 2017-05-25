@@ -41,3 +41,8 @@ The Bio Rule Visualizer is here: http://agathon.sista.arizona.edu:8080/odinweb/b
 | g2p-SNAPSHOT-O5-17-2017.tsv | A collection of evidence used by the Genotype to Phenotype Knowledgebase tool developed by OHSU's Brian Walsh. The knowledgebase connects genomic markers to phenotypes (i.e. drug sensitivity) by querying reputable databases including OncoKB, CIViC, PMKB, JAX, and MolecularMatch. |
 | G2P_interesting_sentences.txt | 51 sentences taken from g2p-SNAPSHOT file listed above. 1 sentence per line. All in this file are from CIViC (the other databases exhibited strict homogeneity of format--not ideal for our purposes) |
 | modification-to-activity.txt | Ozgun's sentences for protein modification to function inference. |
+
+## Genotype to Phenotype (G2P) tool
+
+https://g2p-ohsu.ddns.net
+username/password are both "g2p"
