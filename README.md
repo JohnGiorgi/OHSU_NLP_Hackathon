@@ -2,6 +2,9 @@
 
 Feel free to update this README as you make changes so that others can follow along.
 
+## Intro slides to linguistics
+See files linguistics_intro-1.pptx and linguistics_intro-2.pptx for the slides presented by Dane on Thursday morning.
+
 ## Odin
 
 Dane Bell has recommended that we clone his odin-examples repository: https://github.com/clulab/odin-examples
