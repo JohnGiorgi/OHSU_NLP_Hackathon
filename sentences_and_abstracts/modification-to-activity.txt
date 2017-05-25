@@ -1,0 +1,21 @@
+Histone deacetylase HDAC8 deacetylates SMC3 cohesin subunit. SMC3 deacetylation promotes dissociation of cleaved RAD21 fragments from other cohesin proteins and their replacement with intact RAD21, thereby allowing restoration of the cohesin complex (Deardorff et al. 2012). HDAC8 mutations, as well as mutations in NIPBL, SMC1A and SMC3, can cause Cornelia de Lang syndrome (Deardorff et al. 2012).
+ 
+We show that phosphorylation of Smad2, a mediator of the activin/transforming growth factor-beta signal, by activated extracellular signal-regulated kinase 1 (ERK1) increases the amount of Smad2 protein and leads to enhanced transcriptional activity.
+ 
+p38 alpha/beta MAPK is well established as a promyogenic kinase, but the mechanism by which it is activated during differentiation is not well understood. CDO, JLP and p38 form a ternary complex and it is anticipated that in its role as a scaffold, JLP brings additional components of the pathway, such as MKKs, to these complexes and cooperate to activate p38 alpha/beta MAPK pathway. p38 is activated by phosphorylation on a canonical TxY motif by dual specificity kinases MKK6 and MKK3. MKK6 is the most abundant in skeletal muscles and displays minimal substrate selectivity among all p38 isoforms.
+ 
+Full induction of HIF-1alpha and -2alpha, therefore, relies on the abrogation of both Pro and Asn hydroxylation, which during normoxia occur at the degradation and COOH-terminal transactivation domains, respectively.
+ 
+The C terminus of the epidermal growth factor receptor (EGF-R) contains three tyrosines (Y1068, Y1148, and Y1173) which correspond to the major autophosphorylation sites. To investigate the role of the tyrosines in internalization and down-regulation of the EGF-R, mutational analysis was performed with receptors in which 1, 2, or all 3 tyrosines were changed to phenylalanines. The triple point mutant EGF-R, expressed in NIH-3T3, exhibited low autophosphorylation in vivo, low biological and reduced kinase activities.
+ 
+In murine fibroblasts activation of the Shc/Grb-2 pathway by the ErbB-2 kinase involves tyrosine phosphorylation of Shc products and the formation of Shc/ErbB-2, Shc/Grb-2 and Grb-2/ErbB-2 complexes.
+ 
+Shc/ErbB-2 complexes are formed upon activation of the ErbB-2 kinase and tyrosine phosphorylation of Shc proteins; they are located in both cytosol and cellular membranes.
+ 
+Analysis of deletions of the carboxyl terminus of the epidermal growth factor receptor reveals self-phosphorylation at tyrosine 992 and enhanced in vivo tyrosine phosphorylation of cell substrates.
+ 
+Nutrients and growth factors activate S6K1 by inducing the phosphorylation of threonine 389 in the hydrophobic motif of S6K1.
+ 
+In vitro, structural and molecular studies reveal several non-overlapping activation cascades via N-terminal c-Jun phosphorylation at serine 63 and 73 (Ser63, Ser73), and threonine 91 and 93 (Thr91, Thr93) residues, the dephosphorylation at Thr239, the p300-mediated lysine acetylation of the near C-terminal region (Lys268, Lys271, Lys 273), as well as the Jun-independent activities of the Jun N-terminal family of serine/threonine kinases, that regulate the different and disparate cellular responses.
+ 
+The protein kinase Chk2, the mammalian homolog of the budding yeast Rad53 and fission yeast Cds1 checkpoint kinases, is phosphorylated and activated in response to DNA damage by ionizing radiation (IR), UV irradiation, and replication blocks by hydroxyurea (HU).
