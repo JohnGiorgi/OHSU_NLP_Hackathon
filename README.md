@@ -7,12 +7,14 @@ See files linguistics_intro-1.pptx and linguistics_intro-2.pptx for the slides p
 
 ## Odin
 
-Dane Bell has recommended that we clone his odin-examples repository: https://github.com/clulab/odin-examples
+Dane has recommended that we clone his odin-examples repository: https://github.com/clulab/odin-examples
 
 This can be accomplished in the command line as follows:
 `git clone https://github.com/clulab/odin-examples.git`
 
 Please also check to be sure that you have sbt and Java 8 installed.
+
+Gus has provided an Odin tutorial here: https://github.com/myedibleenso/odin-tutorial
 
 ## Files in sentences_and_abstracts
 | Filename        | Description   |
