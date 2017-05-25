@@ -19,7 +19,7 @@ Gus has provided an Odin tutorial here: https://github.com/myedibleenso/odin-tut
 
 To use the ipython notebook in this tutorial, be sure that you have jupyter installed and then install Gus' py-processors:
 
-`pip install pip install git+https://github.com/myedibleenso/py-processors.git`
+`pip install git+https://github.com/myedibleenso/py-processors.git`
 
 Then clone the tutorial:
 `git clone https://github.com/myedibleenso/odin-tutorial`
