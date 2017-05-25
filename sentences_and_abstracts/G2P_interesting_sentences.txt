@@ -1,0 +1,51 @@
+While cancer with PDGFRA V561D mutation is known to be sensitive to Imatinib, double mutation of V561D and D842V mutants are resistant to imatinib.
+Ba/F3 cells expressing two clinically relevant, imatinib-resistant, mutant forms of FIP1L1-PDGFRA, namely T674I and D842V were tested for growth inhibition by 8 PDGFR-blocking TKIs. Strong inhibitory effects on both mutants were seen only with ponatinib.
+Breast cancer cell lines with oncogenic PIK3CA mutations had an increased sensitivity to treatment with class I PI3K inhibitor GDC-0941 compared to wildtype PIK3CA cell lines (n=54, P=0.005).
+Downregulation of ZEB1 expression in mantle cell lymphoma cell lines and mouse xenografts led to enhanced sensitivity towards treatment with doxorubicin, cytarabin and gemcitabine.
+The XRCC1 R399Q variant was significantly correlated with higher overall survival in non-small cell lung carcinoma (NSCLC) patients treated with gemcitabine and platinum.
+Rates of complete remission and refractory disease are not different in patients with WT1 mutations (69% exon 7, 15% exon 9) than those without in young (16-60) patients with cytogenetically normal AML.
+In renal clear cell carcinoma, patients with VHL mutations did not have a significant impact on cancer specific survival.
+In a 54 year old male patient with sporadic renal cell carcinoma, a c.163_164delGA causing a p.Glu55Gly Stop at 130 frameshift mutation was observed.
+In patients with MDS, those who harbor Q157P/R mutation of U2AF do not show statistical significance in complete remission rate compared to those who harbor wild type U2AF.
+Age, sex, FAB subtype and karyotypes were not statistically significant between AML patients with U2AF S34Y/F mutations and those who harbor wild type U2AF.
+After adjusting for age and cancer stage, the presence of U2AF mutations such as S34Y/F are prognostic for poorer survival outcomes in patients with MDS.
+In 125 gastric tumors, plasma and tissue mRNA levels of TYMS were lower in the raltitrexed sensitive group compared to the resistant group (p = 0.007 and 0.013, respectively).
+TYMS copy number was lower in clinical samples responding to pemetrexed in combination with platinum (n=25).
+High expression of betaIII-tubulin, as assessed in 85 breast cancers by IHC, was associated with better pathological response.
+High expression of class 3 beta-tubulin led to decreased effect of paclitaxel on cell motility in HeLa, MCF-7 and CHO cell lines.
+6 of 89 patients with lung adenocarcinoma had amplification of TTF1.
+Tumors expressing TSC1 or TSC2 mutations show notably more sensitivity to everolimus than their wild-type counterparts.
+Breast tumors with R175H or R249 mutations are more responsive to doxorubicin than breast tumors with wild type TP53.
+MDM2 Inhibitor screen in a panel of 260 cancer cell lines with well characterized TP53 status shows that only cancer cell lines with unaltered TP53 may be sensitive to MDM2 Inhibitor AMGMDS3, while those with p53 mutations demonstrated resistance.
+Unlike other studies, in this study of 110 patients with head and neck squamous cell carcinoma, there was no significant difference in the overall survival of patients with and without any TP53 mutations.
+Patients with TP53 mutations were found to have significantly shorter progression-free (HR = 3.8; P < 0.001) and overall survival (HR = 7.2; P < 0.001).
+In relapsed B-ALL patients, TP53 mutations were associated with morphologic nonresponse to therapy (>5% blasts in the bone marrow after 9 weeks of treatment) as well as reduced event free and overall survival when compared to TP53 wildtype patients.
+In patients with myeloma, those with mutations in TP53 had worse overall survival than those without.
+In patients with myelodysplastic syndrome, in a multivariate analysis those with mutations in TP53 had shorter overall survival than wild-type patients.
+In patients with head and neck squamous cell carcinoma, when comparing patients with any mutation in TP53 to wild-type, there was not a significant difference in overall survival in a multivariate analysis.
+In patients with head and neck squamous cell carcinoma, in a multivariate analysis those with truncating mutations in TP53 had worse progression-free and overall survival than wild-type patients.
+In children with bone marrow relapsed B-cell precursor acute lymphoblastic leukemia, in multivariate analysis those with mutations in TP53 had worse event-free survival than patients without mutations.
+A study of 53 patients with B-CLL found a significant resistance to chemotherapy and corresponding poor clinical outcomes among the 7 treated patients with p53 mutations compared to the 29 treated patients without.
+TOP1 gain was nonsignificantly associated with objective response to irinotecan Odds ratio (OR): 1.62; p = 0.07.
+FFPE tumor samples from 78 patients with colorectal cancer, who had received irinotecan monotherapy were analyzed with a FISH dual-probe.
+Primary tumors of 91 patients with head and neck squamous cell carcinoma were analyzed for expression of EGFR and TGF-alpha using IHC. Expression of EGFR or TGF-alpha were associated with reduced disease-free and cause-specific survival.
+In patients with cytogenetically normal acute myeloid leukemia, those in the intermediate-I risk group with TET2 mutations had higher rates of complete remission.
+In patients with cytogenetically normal acute myeloid leukemia, those in the intermediate-I risk group with TET2 mutations did not have significantly different rates of event-free survival, complete remission, disease-free survival, or overall survival.
+Meta-analysis of 10 studies (9,411 patients, 13,708 controls) showed that TERT polymorphisms (rs2736100) were associated with an increased glioma risk (RR=1.28, 95% CI 1.23-1.33).
+Overexpression and high p-SYK/SYK ratio were associated with resistance to paclitaxel. Inhibition of SYK with R406 resensitized cell lines to paclitaxel.
+In a retrospective analysis of 567 non-squamous, non-small cell lung cancer patients, Exon 1-2 mutations in STK11 were significantly associated with shorter OS (24 vs. 69 months) also after multivariate analysis.
+In a study of 96 Ewing sarcoma tumors, 15% showed heterogeneous loss of STAG2 expression in IHC analysis.
+In basal cell carcinoma, H231R, D473G, W281C and Q477E mutations conferred resistance to SMO-inhibitor vismodegib.
+Treatment with tazemetostat , a small-molecule inhibitor of EZH2, results in concentration-dependent cell growth inhibition and cell death specifically in SS18-SSX-positive, SMARCB1-deficient synovial sarcomas.
+Patients with SF3B1 mutations had a statistically significant longer overall survival as well as event free-survival. Both before and after adjustment for age, karyotype and sex.
+Medullary thyroid cancer cells with RET C634W mutation are insensitive to motesanib, compared to wild-type RET.
+The use of AZD1480 on RET-mutated/rearranged cell lines in vitro led to strong repression of thyroid cancer cell growth.
+Trastuzumab was more effective in cell lines (SKBR3 vs. drug-resistant SKBR3/R) and 17 patient samples that exhibit elevated PTEN expression (by IHC).
+In prostate cancer xenografts, PTEN null tumors had a significant decrease in cell size and proliferation when treated with Temsirolimus (CCI-779).
+All three patients with PTEN loss had benefit from adding Buparlisib to carboplatin+paclitaxel therapy in a phase I study in advanced solid cancers.
+In a study of 107 prostate adenocarcinomas, those with either hemi- or homozygous deletions of PTEN (as determined by interphase FISH) have shorter biochemical recurence-free survival than those without deletions.
+Maxwell et al identified R173C in 1 subject (of 51 endometrial hyperplasias assayed for mutations in PTEN), and identified 10 mutations of 51 in PTEN overall (20%). No additional functional testing or clinical description was given.
+Rectal cancer patients with PIK3CA mutations showed a higher risk of local recurrence (HR:3.5; 95% CI:1.3-9.3, P=0.013, univariate analysis; HR:3.4, 95% CI:1.2-9.2, P=0.017, multivariate analysis) compared to wildtype PIK3CA patients.
+PIK3CA mutations were more frequent in grade 2 than in grade 3 invasive breast cancer.
+Coexistence of exon 9 (E542K or E545K) and exon 20 mutations but not either alone, is prognostic for worse overall survival and cancer specific survival.
+GIST tumors harboring PDGFRA D842V mutation are more likely to be benign than malignant.
