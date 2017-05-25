@@ -22,11 +22,14 @@ To use the ipython notebook in this tutorial, be sure that you have jupyter inst
 `pip install git+https://github.com/myedibleenso/py-processors.git`
 
 Then clone the tutorial:
+
 `git clone https://github.com/myedibleenso/odin-tutorial`
 
-And type this in the command line: `jupyter notebook odin-tutorial.ipynb` to open the notebook in your browser.
+And type this in the command line (from the notebooks directory) to open the notebook in your browser:
 
+`jupyter notebook odin-tutorial.ipynb`
 
+The Bio Rule Visualizer is here: http://agathon.sista.arizona.edu:8080/odinweb/bio/enterText
 
 ## Files in sentences_and_abstracts
 | Filename        | Description   |
