@@ -14,8 +14,12 @@ This can be accomplished in the command line as follows:
 Please also check to be sure that you have sbt and Java 8 installed.
 
 Gus has provided an Odin tutorial here: https://github.com/myedibleenso/odin-tutorial
-You may need to install py-processors first:
+To use the ipython notebook in this tutorial, be sure that you have jupyter installed and then install Gus' py-processors.
 `pip install pip install git+https://github.com/myedibleenso/py-processors.git`
+Then clone the tutorial:
+`git clone https://github.com/myedibleenso/odin-tutorial`
+And type: `jupyter notebook odin-tutorial.ipynb` to open the notebook in your browser.
+
 
 
 ## Files in sentences_and_abstracts
